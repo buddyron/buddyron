@@ -18,28 +18,35 @@ I can't stand repetitive tasks and automate everything possible, leveraging AI t
 
 #### **Mobile Applications**
 
-**ChocoPlayer - Game Emulator** (2015, [Video](https://youtu.be/8kt2GUJAd4A?si=I8fCjTyS13BlBvzC), [GitHub](https://github.com/ronparkdev/chocoplayer))
+**ChocoPlayer - Game Emulator** (2015, [Video](https://youtu.be/8kt2GUJAd4A?si=I8fCjTyS13BlBvzC), [GitHub](https://github.com/buddyron/chocoplayer))
 - Cross-platform iOS/Android game emulator using Cocos2d-x
 - Achieved 250K+ downloads before strategic removal
 - Demonstrated early expertise in mobile platform optimization
 
 #### **Browser Extensions**
 
-**Tiny Time Timer** (2022, [Whale Extension](https://store.whale.naver.com/mini/detail/ggjkckdfbpmdaclhpmjlpifjilpdlhpg), [GitHub](https://github.com/ronparkdev/time-timer))
+**Tiny Time Timer** (2022, [Whale Extension](https://store.whale.naver.com/mini/detail/ggjkckdfbpmdaclhpmjlpifjilpdlhpg), [GitHub](https://github.com/buddyron/time-timer))
 - React.js-based progressive web app with extension support
 - Implemented offline-first architecture with service workers
 - Dark theme and sound effects for enhanced UX
 
-**Shortcut Click** (2025, [Video](https://youtu.be/BpF5vEGk598?si=uor5RJzOqwKQD_as), [GitHub](https://github.com/ronparkdev/shortcut-click-extension))
+**Shortcut Click** (2025, [Video](https://youtu.be/BpF5vEGk598?si=uor5RJzOqwKQD_as), [Chrome Web Store](https://chromewebstore.google.com/detail/jhmecpjngghgimacbfbajlpmcimnfihl), [GitHub](https://github.com/buddyron/shortcut-click-extension))
 - Chrome extension for customizable webpage shortcuts
 - Demonstrates deep understanding of browser APIs and user workflows
 
 #### **Developer Tools & ESLint Plugins**
 
-- **[eslint-plugin-preferred-import](https://github.com/ronparkdev/eslint-plugin-preferred-import)** - ESLint plugin for enforcing preferred import patterns
-- **[eslint-plugin-annotation](https://github.com/ronparkdev/eslint-plugin-annotation)** - ESLint plugin for code annotation management  
-- **[eslint-plugin-sort-annotation](https://github.com/ronparkdev/eslint-plugin-sort-annotation)** - ESLint plugin for sorting annotations
-- **[rollup-plugin-dts-path-alias](https://www.npmjs.com/package/rollup-plugin-dts-path-alias)** - Rollup plugin for TypeScript declaration path aliasing
+Auto-fixable lint rules that turn repeated code-review comments into automation. The three ESLint plugins have about 1.69M combined npm downloads in the past year (October 2026).
+
+- **[eslint-plugin-sort-annotation](https://github.com/buddyron/eslint-plugin-sort-annotation)** ([npm](https://www.npmjs.com/package/eslint-plugin-sort-annotation)) - Auto-sorts object keys and array values marked with `@sort`. ~1.0M downloads in the past year
+- **[eslint-plugin-annotation](https://github.com/buddyron/eslint-plugin-annotation)** ([npm](https://www.npmjs.com/package/eslint-plugin-annotation)) - Validates and auto-corrects code with annotation-based rules. ~640K downloads in the past year
+- **[eslint-plugin-preferred-import](https://github.com/buddyron/eslint-plugin-preferred-import)** ([npm](https://www.npmjs.com/package/eslint-plugin-preferred-import)) - Auto-fixes relative imports to tsconfig path aliases
+- **[rollup-plugin-dts-path-alias](https://github.com/buddyron/rollup-plugin-dts-path-alias)** ([npm](https://www.npmjs.com/package/rollup-plugin-dts-path-alias)) - Converts TypeScript path aliases in built .d.ts files to relative paths. ~28K downloads in the past year
+
+#### **Editor Extensions**
+
+- **[Paste Clipboard to Files](https://marketplace.visualstudio.com/items?itemName=RonPark.paste-clipboard-to-files)** ([GitHub](https://github.com/buddyron/vscode-paste-clipboard-to-files-extension)) - VS Code extension that creates files from clipboard content with path comments
+- **[Files to Markdown](https://marketplace.visualstudio.com/items?itemName=RonPark.files-to-markdown-extractor)** ([GitHub](https://github.com/buddyron/vscode-files-to-makrdown-extension)) - VS Code extension that copies selected files or folders as Markdown
 
 ---
 
@@ -60,7 +67,7 @@ I'm passionate about bridging the gap between frontend and backend, mobile and w
 
 - **Email:** [ronpark.dev@gmail.com](mailto:ronpark.dev@gmail.com)
 - **LinkedIn:** [linkedin.com/in/sang-min-park](https://www.linkedin.com/in/sang-min-park)
-- **GitHub:** [github.com/ronparkdev](https://github.com/ronparkdev)
+- **GitHub:** [github.com/buddyron](https://github.com/buddyron)
 
 ---
 
